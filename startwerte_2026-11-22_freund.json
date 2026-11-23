@@ -21410,6 +21410,114 @@
     }
    },
    "stand_zeit": "2026-11-23T20:32:27Z"
+  },
+  "#9V00PRGU": {
+   "name": "WB Teewurst",
+   "clan": "Würstchenbude",
+   "th": 19,
+   "cs_kriege": [
+    "#2JYURYLCL|#2J02CC209"
+   ],
+   "cw30": {
+    "th": 19,
+    "hits": 6,
+    "triples": 5,
+    "stars": 17,
+    "avg_stars": 2.833,
+    "triple_rate": 83.3,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 5,
+      "stars": 17
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 38,
+    "triples": 35,
+    "stars": 111,
+    "avg_stars": 2.921,
+    "triple_rate": 92.1,
+    "by_th": {
+     "18": {
+      "hits": 38,
+      "triples": 35,
+      "stars": 111
+     }
+    }
+   },
+   "cwl60": {
+    "th": 19,
+    "hits": 13,
+    "triples": 11,
+    "stars": 37,
+    "avg_stars": 2.846,
+    "triple_rate": 84.6,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 11,
+      "stars": 37
+     }
+    }
+   },
+   "cwl180": {
+    "th": 19,
+    "hits": 48,
+    "triples": 43,
+    "stars": 139,
+    "avg_stars": 2.896,
+    "triple_rate": 89.6,
+    "by_th": {
+     "18": {
+      "hits": 48,
+      "triples": 43,
+      "stars": 139
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Get Cooked!",
+    "clantag": "#2J922VYQ0",
+    "liga": "Titan League I",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 16,
+    "dreier": 4
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Get Cooked!",
+     "clantag": "#2J922VYQ0",
+     "liga": "Titan 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Get Buttered!",
+     "clantag": "#2R98Y8YUJ",
+     "liga": "Legende",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ],
+   "stand_zeit": "2026-11-23T21:34:17Z"
   }
  },
  "stand_zeit": "2026-11-22T23:00:00Z"
