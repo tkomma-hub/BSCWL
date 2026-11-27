@@ -23533,6 +23533,102 @@
     }
    ],
    "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#PUL0UGYLQ": {
+   "name": "venom",
+   "clan": "Förderpool",
+   "th": 19,
+   "cs_kriege": [],
+   "cw30": {
+    "th": 19,
+    "hits": 2,
+    "triples": 0,
+    "stars": 3,
+    "avg_stars": 1.5,
+    "triple_rate": 0,
+    "by_th": {
+     "19": {
+      "hits": 2,
+      "triples": 0,
+      "stars": 3
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 14,
+    "triples": 5,
+    "stars": 30,
+    "avg_stars": 2.143,
+    "triple_rate": 35.7,
+    "by_th": {
+     "18": {
+      "hits": 12,
+      "triples": 5,
+      "stars": 27
+     },
+     "19": {
+      "hits": 2,
+      "triples": 0,
+      "stars": 3
+     }
+    }
+   },
+   "cwl180": {
+    "th": 19,
+    "hits": 20,
+    "triples": 10,
+    "stars": 46,
+    "avg_stars": 2.3,
+    "triple_rate": 50,
+    "by_th": {
+     "18": {
+      "hits": 20,
+      "triples": 10,
+      "stars": 46
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-08",
+    "clan": "Förderpool",
+    "clantag": "#2Q02LU8G0",
+    "liga": "Master League I",
+    "kriege": 4,
+    "angriffe": 4,
+    "sterne": 10,
+    "dreier": 3
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "Förderpool",
+     "clantag": "#2Q02LU8G0",
+     "liga": "Meister 1",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Förderpool",
+     "clantag": "#2Q02LU8G0",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-06",
+     "clan": "Förderpool",
+     "clantag": "#2Q02LU8G0",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 4
+    }
+   ],
+   "stand_zeit": "2026-11-27T20:57:45Z"
   }
  },
  "stand_zeit": "2026-11-22T23:00:00Z"
