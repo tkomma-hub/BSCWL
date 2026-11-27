@@ -21518,6 +21518,2021 @@
     }
    ],
    "stand_zeit": "2026-11-23T21:34:17Z"
+  },
+  "#YQPL9PJRJ": {
+   "name": "McTannizapf",
+   "clan": "City Doves",
+   "th": 19,
+   "cs_kriege": [
+    "#2QRGLVGCV|#QGUC8Y8"
+   ],
+   "cw30": {
+    "th": 19,
+    "hits": 4,
+    "triples": 2,
+    "stars": 9,
+    "avg_stars": 2.25,
+    "triple_rate": 50,
+    "by_th": {
+     "18": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     },
+     "19": {
+      "hits": 2,
+      "triples": 0,
+      "stars": 3
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 32,
+    "triples": 25,
+    "stars": 86,
+    "avg_stars": 2.688,
+    "triple_rate": 78.1,
+    "by_th": {
+     "18": {
+      "hits": 30,
+      "triples": 25,
+      "stars": 83
+     },
+     "19": {
+      "hits": 2,
+      "triples": 0,
+      "stars": 3
+     }
+    }
+   },
+   "cwl60": {
+    "th": 19,
+    "hits": 14,
+    "triples": 11,
+    "stars": 38,
+    "avg_stars": 2.714,
+    "triple_rate": 78.6,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 11,
+      "stars": 38
+     }
+    }
+   },
+   "cwl180": {
+    "th": 19,
+    "hits": 49,
+    "triples": 40,
+    "stars": 136,
+    "avg_stars": 2.776,
+    "triple_rate": 81.6,
+    "by_th": {
+     "18": {
+      "hits": 49,
+      "triples": 40,
+      "stars": 136
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "#BS2# CwL",
+    "clantag": "#2RC8L0VVU",
+    "liga": "Titan League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 17,
+    "dreier": 4
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#LUCG0QPP2": {
+   "name": "#BS# Fc Bayern",
+   "clan": "#Black Stone# 6",
+   "th": 18,
+   "cs_kriege": [],
+   "cw180": {
+    "th": 18,
+    "hits": 11,
+    "triples": 5,
+    "stars": 25,
+    "avg_stars": 2.273,
+    "triple_rate": 45.5,
+    "by_th": {
+     "18": {
+      "hits": 11,
+      "triples": 5,
+      "stars": 25
+     }
+    }
+   },
+   "cwl180": {
+    "th": 18,
+    "hits": 6,
+    "triples": 5,
+    "stars": 16,
+    "avg_stars": 2.667,
+    "triple_rate": 83.3,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 5,
+      "stars": 16
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-08",
+    "clan": "#Black Stone# 6",
+    "clantag": "#2G8ULRP8R",
+    "liga": "Master League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 19,
+    "dreier": 6
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-05",
+     "clan": "#spendeundcws2",
+     "clantag": "#VLP9G9YG",
+     "liga": "Kristall 1",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#GRR08G99P": {
+   "name": "_CR4SH",
+   "clan": "#Black Stone# 2",
+   "th": 19,
+   "cs_kriege": [
+    "#282PGVRRJ|#2RU29PGR0",
+    "#209U0PUVJ|#2G8CJJRY9"
+   ],
+   "cw30": {
+    "th": 19,
+    "hits": 15,
+    "triples": 12,
+    "stars": 42,
+    "avg_stars": 2.8,
+    "triple_rate": 80,
+    "by_th": {
+     "18": {
+      "hits": 9,
+      "triples": 8,
+      "stars": 26
+     },
+     "19": {
+      "hits": 6,
+      "triples": 4,
+      "stars": 16
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 64,
+    "triples": 53,
+    "stars": 180,
+    "avg_stars": 2.813,
+    "triple_rate": 82.8,
+    "by_th": {
+     "17": {
+      "hits": 38,
+      "triples": 33,
+      "stars": 109
+     },
+     "18": {
+      "hits": 20,
+      "triples": 16,
+      "stars": 55
+     },
+     "19": {
+      "hits": 6,
+      "triples": 4,
+      "stars": 16
+     }
+    }
+   },
+   "cwl60": {
+    "th": 19,
+    "hits": 6,
+    "triples": 6,
+    "stars": 18,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     }
+    }
+   },
+   "cwl180": {
+    "th": 19,
+    "hits": 10,
+    "triples": 10,
+    "stars": 30,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "17": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "JoElite",
+    "clantag": "#U2YYUGRV",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "JoElite",
+     "clantag": "#U2YYUGRV",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Frosted Flakes",
+     "clantag": "#2YQQ8J80C",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Frosted Flakes",
+     "clantag": "#2YQQ8J80C",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#L0YPP8YG": {
+   "name": "Alter Verwalter",
+   "clan": "Alter Verwalter",
+   "th": 16,
+   "cs_kriege": [
+    "#2RGVRLQ8V|#2J0J29U8C"
+   ],
+   "cw30": {
+    "th": 16,
+    "hits": 3,
+    "triples": 3,
+    "stars": 9,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "16": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     }
+    }
+   },
+   "cw180": {
+    "th": 16,
+    "hits": 11,
+    "triples": 10,
+    "stars": 32,
+    "avg_stars": 2.909,
+    "triple_rate": 90.9,
+    "by_th": {
+     "16": {
+      "hits": 11,
+      "triples": 10,
+      "stars": 32
+     }
+    }
+   },
+   "cwl60": {
+    "th": 16,
+    "hits": 2,
+    "triples": 2,
+    "stars": 6,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "16": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "cwl180": {
+    "th": 16,
+    "hits": 5,
+    "triples": 4,
+    "stars": 14,
+    "avg_stars": 2.8,
+    "triple_rate": 80,
+    "by_th": {
+     "16": {
+      "hits": 5,
+      "triples": 4,
+      "stars": 14
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "#Black Stone# 6",
+    "clantag": "#2G8ULRP8R",
+    "liga": "Master League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#2P20CL20Y": {
+   "name": "aNOOB™Verwalter",
+   "clan": "Alter Verwalter",
+   "th": 19,
+   "cs_kriege": [],
+   "cw30": {
+    "th": 19,
+    "hits": 11,
+    "triples": 11,
+    "stars": 33,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 10,
+      "triples": 10,
+      "stars": 30
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 48,
+    "triples": 48,
+    "stars": 144,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 47,
+      "triples": 47,
+      "stars": 141
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "cwl60": {
+    "th": 19,
+    "hits": 14,
+    "triples": 10,
+    "stars": 38,
+    "avg_stars": 2.714,
+    "triple_rate": 71.4,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 10,
+      "stars": 38
+     }
+    }
+   },
+   "cwl180": {
+    "th": 19,
+    "hits": 48,
+    "triples": 41,
+    "stars": 137,
+    "avg_stars": 2.854,
+    "triple_rate": 85.4,
+    "by_th": {
+     "18": {
+      "hits": 48,
+      "triples": 41,
+      "stars": 137
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "#Black Stone#",
+    "clantag": "#Y898LCJ0",
+    "liga": "Titan League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 19,
+    "dreier": 5
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#GG00LJRJ9": {
+   "name": "BS Dirk8",
+   "clan": "#Black Stone# 6",
+   "th": 13,
+   "cs_kriege": [],
+   "cw180": {
+    "th": 13,
+    "hits": 7,
+    "triples": 7,
+    "stars": 21,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "11": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "13": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     }
+    }
+   },
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#L8GJUCQJV": {
+   "name": "Fander",
+   "clan": "THE BROTHERS",
+   "th": 19,
+   "cs_kriege": [
+    "#YQLYYL8U|#9LC9VCU8"
+   ],
+   "cw30": {
+    "th": 19,
+    "hits": 4,
+    "triples": 3,
+    "stars": 10,
+    "avg_stars": 2.5,
+    "triple_rate": 75,
+    "by_th": {
+     "18": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     },
+     "19": {
+      "hits": 3,
+      "triples": 2,
+      "stars": 7
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 4,
+    "triples": 3,
+    "stars": 10,
+    "avg_stars": 2.5,
+    "triple_rate": 75,
+    "by_th": {
+     "18": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     },
+     "19": {
+      "hits": 3,
+      "triples": 2,
+      "stars": 7
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-03",
+    "clan": "Der Schwarm",
+    "clantag": "#2G9GU2UCP",
+    "liga": "Master League I",
+    "kriege": 1,
+    "angriffe": 1,
+    "sterne": 1,
+    "dreier": 0
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-03",
+     "clan": "Der Schwarm",
+     "clantag": "#2G9GU2UCP",
+     "liga": "Meister 1",
+     "angriffe": 1,
+     "sterne": 1,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-02",
+     "clan": "Der Schwarm",
+     "clantag": "#2G9GU2UCP",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-01",
+     "clan": "Der Schwarm",
+     "clantag": "#2G9GU2UCP",
+     "liga": "Meister 1",
+     "angriffe": 5,
+     "sterne": 10,
+     "dreier": 1
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#LGYGU0P28": {
+   "name": "FcPigeon",
+   "clan": "City Doves",
+   "th": 18,
+   "cs_kriege": [
+    "#2QRGLVGCV|#QGUC8Y8"
+   ],
+   "cw30": {
+    "th": 18,
+    "hits": 3,
+    "triples": 2,
+    "stars": 8,
+    "avg_stars": 2.667,
+    "triple_rate": 66.7,
+    "by_th": {
+     "18": {
+      "hits": 3,
+      "triples": 2,
+      "stars": 8
+     }
+    }
+   },
+   "cw180": {
+    "th": 18,
+    "hits": 27,
+    "triples": 20,
+    "stars": 72,
+    "avg_stars": 2.667,
+    "triple_rate": 74.1,
+    "by_th": {
+     "17": {
+      "hits": 4,
+      "triples": 3,
+      "stars": 11
+     },
+     "18": {
+      "hits": 23,
+      "triples": 17,
+      "stars": 61
+     }
+    }
+   },
+   "cwl60": {
+    "th": 18,
+    "hits": 14,
+    "triples": 14,
+    "stars": 42,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 14,
+      "stars": 42
+     }
+    }
+   },
+   "cwl180": {
+    "th": 18,
+    "hits": 28,
+    "triples": 27,
+    "stars": 83,
+    "avg_stars": 2.964,
+    "triple_rate": 96.4,
+    "by_th": {
+     "17": {
+      "hits": 7,
+      "triples": 7,
+      "stars": 21
+     },
+     "18": {
+      "hits": 21,
+      "triples": 20,
+      "stars": 62
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "GoldWings",
+    "clantag": "#PPGL9RJJ",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GoldWings",
+     "clantag": "#PPGL9RJJ",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GW chill zone ✌",
+     "clantag": "#UV8C8RL9",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "GW chill zone ✌",
+     "clantag": "#UV8C8RL9",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#YRV80Y0C": {
+   "name": "Grogu",
+   "clan": "City Doves",
+   "th": 19,
+   "cs_kriege": [
+    "#2QRGLVGCV|#QGUC8Y8"
+   ],
+   "cw30": {
+    "th": 19,
+    "hits": 7,
+    "triples": 7,
+    "stars": 21,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 5,
+      "triples": 5,
+      "stars": 15
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 74,
+    "triples": 62,
+    "stars": 207,
+    "avg_stars": 2.797,
+    "triple_rate": 83.8,
+    "by_th": {
+     "18": {
+      "hits": 72,
+      "triples": 60,
+      "stars": 201
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "cwl60": {
+    "th": 19,
+    "hits": 14,
+    "triples": 13,
+    "stars": 41,
+    "avg_stars": 2.929,
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 13,
+      "stars": 41
+     }
+    }
+   },
+   "cwl180": {
+    "th": 19,
+    "hits": 42,
+    "triples": 38,
+    "stars": 122,
+    "avg_stars": 2.905,
+    "triple_rate": 90.5,
+    "by_th": {
+     "18": {
+      "hits": 42,
+      "triples": 38,
+      "stars": 122
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "GoldWings",
+    "clantag": "#PPGL9RJJ",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GoldWings",
+     "clantag": "#PPGL9RJJ",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GoldWings",
+     "clantag": "#PPGL9RJJ",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Warriors",
+     "clantag": "#2RCUQL9PY",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#QVVGVPJ0C": {
+   "name": "Haselnuss",
+   "clan": "City Doves",
+   "th": 17,
+   "cs_kriege": [
+    "#2QRGLVGCV|#QGUC8Y8"
+   ],
+   "cw30": {
+    "th": 17,
+    "hits": 3,
+    "triples": 3,
+    "stars": 9,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "17": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     }
+    }
+   },
+   "cw180": {
+    "th": 17,
+    "hits": 48,
+    "triples": 42,
+    "stars": 138,
+    "avg_stars": 2.875,
+    "triple_rate": 87.5,
+    "by_th": {
+     "15": {
+      "hits": 16,
+      "triples": 14,
+      "stars": 46
+     },
+     "16": {
+      "hits": 29,
+      "triples": 25,
+      "stars": 83
+     },
+     "17": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     }
+    }
+   },
+   "cwl60": {
+    "th": 17,
+    "hits": 1,
+    "triples": 1,
+    "stars": 3,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "16": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "cwl180": {
+    "th": 17,
+    "hits": 5,
+    "triples": 5,
+    "stars": 15,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "15": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "16": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "GoldWings II",
+    "clantag": "#2QGVCC82C",
+    "liga": "Master League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#J2R0V9P": {
+   "name": "jakob",
+   "clan": "PsychoRabbits",
+   "th": 18,
+   "cs_kriege": [
+    "#2LUUJ0LL8|#J2G2JGCP"
+   ],
+   "cw180": {
+    "th": 18,
+    "hits": 26,
+    "triples": 11,
+    "stars": 60,
+    "avg_stars": 2.308,
+    "triple_rate": 42.3,
+    "by_th": {
+     "18": {
+      "hits": 26,
+      "triples": 11,
+      "stars": 60
+     }
+    }
+   },
+   "cwl60": {
+    "th": 18,
+    "hits": 9,
+    "triples": 6,
+    "stars": 24,
+    "avg_stars": 2.667,
+    "triple_rate": 66.7,
+    "by_th": {
+     "18": {
+      "hits": 9,
+      "triples": 6,
+      "stars": 24
+     }
+    }
+   },
+   "cwl180": {
+    "th": 18,
+    "hits": 19,
+    "triples": 14,
+    "stars": 52,
+    "avg_stars": 2.737,
+    "triple_rate": 73.7,
+    "by_th": {
+     "18": {
+      "hits": 19,
+      "triples": 14,
+      "stars": 52
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "PsychoRabbits",
+    "clantag": "#2LUUJ0LL8",
+    "liga": "Crystal League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "PsychoRabbits",
+     "clantag": "#2LUUJ0LL8",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "PsychoRabbits",
+     "clantag": "#2LUUJ0LL8",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Nova Empire",
+     "clantag": "#2CJUCJ0CV",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#QVJYPCVUC": {
+   "name": "Kampfholz",
+   "clan": "City Doves",
+   "th": 18,
+   "cs_kriege": [
+    "#2QRGLVGCV|#QGUC8Y8"
+   ],
+   "cw30": {
+    "th": 18,
+    "hits": 4,
+    "triples": 3,
+    "stars": 11,
+    "avg_stars": 2.75,
+    "triple_rate": 75,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 3,
+      "stars": 11
+     }
+    }
+   },
+   "cw180": {
+    "th": 18,
+    "hits": 15,
+    "triples": 13,
+    "stars": 43,
+    "avg_stars": 2.867,
+    "triple_rate": 86.7,
+    "by_th": {
+     "16": {
+      "hits": 5,
+      "triples": 5,
+      "stars": 15
+     },
+     "17": {
+      "hits": 6,
+      "triples": 5,
+      "stars": 17
+     },
+     "18": {
+      "hits": 4,
+      "triples": 3,
+      "stars": 11
+     }
+    }
+   },
+   "cwl60": {
+    "th": 18,
+    "hits": 7,
+    "triples": 7,
+    "stars": 21,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "17": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     },
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     }
+    }
+   },
+   "cwl180": {
+    "th": 18,
+    "hits": 15,
+    "triples": 15,
+    "stars": 45,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "16": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "17": {
+      "hits": 5,
+      "triples": 5,
+      "stars": 15
+     },
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "GoldWings II",
+    "clantag": "#2QGVCC82C",
+    "liga": "Master League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#YR0RJ2PPL": {
+   "name": "MrRaxter™️",
+   "clan": "City Doves",
+   "th": 18,
+   "cs_kriege": [
+    "#2QRGLVGCV|#QGUC8Y8"
+   ],
+   "cw30": {
+    "th": 18,
+    "hits": 6,
+    "triples": 6,
+    "stars": 18,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     }
+    }
+   },
+   "cw180": {
+    "th": 18,
+    "hits": 61,
+    "triples": 52,
+    "stars": 171,
+    "avg_stars": 2.803,
+    "triple_rate": 85.2,
+    "by_th": {
+     "17": {
+      "hits": 8,
+      "triples": 7,
+      "stars": 22
+     },
+     "18": {
+      "hits": 53,
+      "triples": 45,
+      "stars": 149
+     }
+    }
+   },
+   "cwl60": {
+    "th": 18,
+    "hits": 11,
+    "triples": 10,
+    "stars": 31,
+    "avg_stars": 2.818,
+    "triple_rate": 90.9,
+    "by_th": {
+     "18": {
+      "hits": 11,
+      "triples": 10,
+      "stars": 31
+     }
+    }
+   },
+   "cwl180": {
+    "th": 18,
+    "hits": 23,
+    "triples": 21,
+    "stars": 66,
+    "avg_stars": 2.87,
+    "triple_rate": 91.3,
+    "by_th": {
+     "17": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     },
+     "18": {
+      "hits": 17,
+      "triples": 15,
+      "stars": 48
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "GoldWings",
+    "clantag": "#PPGL9RJJ",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GoldWings",
+     "clantag": "#PPGL9RJJ",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Warriors",
+     "clantag": "#2RCUQL9PY",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#LYGYP88PL": {
+   "name": "Spyro",
+   "clan": "City Doves",
+   "th": 16,
+   "cs_kriege": [
+    "#2QRGLVGCV|#QGUC8Y8"
+   ],
+   "cw30": {
+    "th": 16,
+    "hits": 1,
+    "triples": 1,
+    "stars": 3,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "16": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "cw180": {
+    "th": 16,
+    "hits": 25,
+    "triples": 20,
+    "stars": 68,
+    "avg_stars": 2.72,
+    "triple_rate": 80,
+    "by_th": {
+     "14": {
+      "hits": 5,
+      "triples": 5,
+      "stars": 15
+     },
+     "15": {
+      "hits": 19,
+      "triples": 14,
+      "stars": 50
+     },
+     "16": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "cwl60": {
+    "th": 16,
+    "hits": 1,
+    "triples": 1,
+    "stars": 3,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "15": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "cwl180": {
+    "th": 16,
+    "hits": 5,
+    "triples": 5,
+    "stars": 15,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "14": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     },
+     "15": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "GW death zone",
+    "clantag": "#2L0L0G0PL",
+    "liga": "Crystal League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GW death zone",
+     "clantag": "#2L0L0G0PL",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Keks-Koalition",
+     "clantag": "#2C0Y20JUP",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Keks-Koalition",
+     "clantag": "#2C0Y20JUP",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#G8VLQC2CJ": {
+   "name": "Steinchen",
+   "clan": "City Doves",
+   "th": 17,
+   "cs_kriege": [
+    "#2QRGLVGCV|#QGUC8Y8"
+   ],
+   "cw30": {
+    "th": 17,
+    "hits": 7,
+    "triples": 7,
+    "stars": 21,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "17": {
+      "hits": 7,
+      "triples": 7,
+      "stars": 21
+     }
+    }
+   },
+   "cw180": {
+    "th": 17,
+    "hits": 59,
+    "triples": 58,
+    "stars": 176,
+    "avg_stars": 2.983,
+    "triple_rate": 98.3,
+    "by_th": {
+     "15": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "16": {
+      "hits": 45,
+      "triples": 44,
+      "stars": 134
+     },
+     "17": {
+      "hits": 10,
+      "triples": 10,
+      "stars": 30
+     }
+    }
+   },
+   "cwl180": {
+    "th": 17,
+    "hits": 7,
+    "triples": 7,
+    "stars": 21,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "15": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     },
+     "16": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "GoldWings II",
+    "clantag": "#2QGVCC82C",
+    "liga": "Master League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#29JC90YRP": {
+   "name": "tightiboy",
+   "clan": "#Black Stone#",
+   "th": 19,
+   "cs_kriege": [],
+   "cw30": {
+    "th": 19,
+    "hits": 10,
+    "triples": 3,
+    "stars": 21,
+    "avg_stars": 2.1,
+    "triple_rate": 30,
+    "by_th": {
+     "18": {
+      "hits": 8,
+      "triples": 2,
+      "stars": 16
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 74,
+    "triples": 39,
+    "stars": 177,
+    "avg_stars": 2.392,
+    "triple_rate": 52.7,
+    "by_th": {
+     "18": {
+      "hits": 72,
+      "triples": 38,
+      "stars": 172
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
+   },
+   "cwl60": {
+    "th": 19,
+    "hits": 13,
+    "triples": 10,
+    "stars": 36,
+    "avg_stars": 2.769,
+    "triple_rate": 76.9,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 10,
+      "stars": 36
+     }
+    }
+   },
+   "cwl180": {
+    "th": 19,
+    "hits": 31,
+    "triples": 23,
+    "stars": 84,
+    "avg_stars": 2.71,
+    "triple_rate": 74.2,
+    "by_th": {
+     "18": {
+      "hits": 31,
+      "triples": 23,
+      "stars": 84
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "#Black Stone# 5",
+    "clantag": "#2GLY98C9U",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 3
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#P29C8L8YG": {
+   "name": "VanSȼheep",
+   "clan": "City Doves",
+   "th": 19,
+   "cs_kriege": [
+    "#2QRGLVGCV|#QGUC8Y8"
+   ],
+   "cw30": {
+    "th": 19,
+    "hits": 3,
+    "triples": 2,
+    "stars": 8,
+    "avg_stars": 2.667,
+    "triple_rate": 66.7,
+    "by_th": {
+     "18": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 56,
+    "triples": 44,
+    "stars": 154,
+    "avg_stars": 2.75,
+    "triple_rate": 78.6,
+    "by_th": {
+     "18": {
+      "hits": 55,
+      "triples": 43,
+      "stars": 151
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "cwl60": {
+    "th": 19,
+    "hits": 13,
+    "triples": 13,
+    "stars": 39,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 13,
+      "stars": 39
+     }
+    }
+   },
+   "cwl180": {
+    "th": 19,
+    "hits": 45,
+    "triples": 42,
+    "stars": 132,
+    "avg_stars": 2.933,
+    "triple_rate": 93.3,
+    "by_th": {
+     "18": {
+      "hits": 45,
+      "triples": 42,
+      "stars": 132
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "GoldWings",
+    "clantag": "#PPGL9RJJ",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GoldWings",
+     "clantag": "#PPGL9RJJ",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GoldWings",
+     "clantag": "#PPGL9RJJ",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BattleHeroes BD",
+     "clantag": "#2QC90JC0",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#QQR9QV09C": {
+   "name": "Weintraubi",
+   "clan": "City Doves",
+   "th": 17,
+   "cs_kriege": [
+    "#2QRGLVGCV|#QGUC8Y8"
+   ],
+   "cw30": {
+    "th": 17,
+    "hits": 2,
+    "triples": 2,
+    "stars": 6,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "17": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "cw180": {
+    "th": 17,
+    "hits": 30,
+    "triples": 27,
+    "stars": 87,
+    "avg_stars": 2.9,
+    "triple_rate": 90,
+    "by_th": {
+     "16": {
+      "hits": 25,
+      "triples": 22,
+      "stars": 72
+     },
+     "17": {
+      "hits": 5,
+      "triples": 5,
+      "stars": 15
+     }
+    }
+   },
+   "cwl60": {
+    "th": 17,
+    "hits": 2,
+    "triples": 2,
+    "stars": 6,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "17": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "cwl180": {
+    "th": 17,
+    "hits": 8,
+    "triples": 8,
+    "stars": 24,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "16": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     },
+     "17": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "GoldWings II",
+    "clantag": "#2QGVCC82C",
+    "liga": "Master League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "GoldWings II",
+     "clantag": "#2QGVCC82C",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
+  },
+  "#Q8CCLQYG9": {
+   "name": "Ｉ ᴬᴹ ╰⁔╯ＦＡＷＡＺ♡ツ",
+   "clan": "#Black Stone#",
+   "th": 18,
+   "cs_kriege": [],
+   "cw180": {
+    "th": 18,
+    "hits": 2,
+    "triples": 2,
+    "stars": 6,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "cwl180": {
+    "th": 18,
+    "hits": 7,
+    "triples": 6,
+    "stars": 20,
+    "avg_stars": 2.857,
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 7,
+      "triples": 6,
+      "stars": 20
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-07",
+    "clan": "#Black Stone# 5",
+    "clantag": "#2GLY98C9U",
+    "liga": "Master League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-07",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-06",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-06",
+     "clan": "#BS# League",
+     "clantag": "#2RJLVJLG2",
+     "liga": "Meister 3",
+     "angriffe": 4,
+     "sterne": 12,
+     "dreier": 4
+    }
+   ],
+   "stand_zeit": "2026-11-27T11:07:39Z"
   }
  },
  "stand_zeit": "2026-11-22T23:00:00Z"
